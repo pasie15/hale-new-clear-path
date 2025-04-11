@@ -1,0 +1,34 @@
+# GameMaker Studio 2 specific files
+*.yy.backup
+*.yyp.backup
+*.yy.backup.*
+*.yyp.backup.*
+
+# Temporary files
+*.tmp
+
+# Log files
+*.log
+
+# Binary files
+*.win
+*.exe
+*.dll
+*.so
+*.dylib
+
+# GameMaker Studio 2 cache and temporary files
+/cache/
+/temp/
+
+# GameMaker Studio 2 local options
+options/operagx/options_operagx.yy
+options/windows/options_windows.yy
+
+# Sprite image files (can be large)
+# Uncomment if you want to exclude sprite images
+# sprites/*/*.png
+
+# OS specific files
+.DS_Store
+Thumbs.db
